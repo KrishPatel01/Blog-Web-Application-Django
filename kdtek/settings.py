@@ -26,7 +26,7 @@ SECRET_KEY = '^$=ajnx$s5m!m(2$ef+6$$*_)zt)@u&*(0axde(4s)d)2tfxm5'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['krishpatel01.github.io', '127.0.0.1']
+ALLOWED_HOSTS = []
 
 
 # Application definition
